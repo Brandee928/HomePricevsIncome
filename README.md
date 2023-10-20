@@ -18,7 +18,7 @@ This data source is pulled from Freddie Mac. This is a well-known company who ha
 
 I took the Historical weekly interest document and deleted all information before March 2008. Data for April 1971- February 2008 was deleted which removed 1931 lines. I separated the month and year to make a concatenated month and year and then consolidated the month and Year averages into quarterly rates.
 
-**Median Yearly Household incomes **
+**Median Yearly Household Incomes**
 
 I ran the southern state household income from this data for my desired years (2008-2020). I only gathered the yearly incomes for 1/1/20XX for each state.  
 https://fred.stlouisfed.org/release/tables?rid=249&eid=259515&od=2008-01-01#  
