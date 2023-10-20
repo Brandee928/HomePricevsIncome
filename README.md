@@ -4,7 +4,7 @@ This folder houses the practice exercises and final project from my Career Found
 **Data Source:**
 
 **Median Home Sales Price**
-https://www.kaggle.com/datasets/kylet550/median-home-sale- price?datasetId=513199
+https://www.kaggle.com/datasets/kylet550/median-home-sale-price?datasetId=513199
 
 This external data was housed in Kaggle and pulled from Zillow. It includes multiple cities from each state, and the median sale price of homes in each city from 2008 to 2019. This data was chosen because it is based on a reputable source of housing data. There are 3881 lines and 146 columns primarily from median sales values separated into month and year information.
 
@@ -18,7 +18,7 @@ This data source is pulled from Freddie Mac. This is a well-known company who ha
 
 I took the Historical weekly interest document and deleted all information before March 2008. Data for April 1971- February 2008 was deleted which removed 1931 lines. I separated the month and year to make a concatenated month and year and then consolidated the month and Year averages into quarterly rates.
 
-Median Yearly Household incomes 
+**Median Yearly Household incomes **
 
 I ran the southern state household income from this data for my desired years (2008-2020). I only gathered the yearly incomes for 1/1/20XX for each state.  
 https://fred.stlouisfed.org/release/tables?rid=249&eid=259515&od=2008-01-01#  
